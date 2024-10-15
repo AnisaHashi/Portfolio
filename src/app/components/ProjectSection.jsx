@@ -153,7 +153,7 @@ const projectsData = [
     cover: "/images/projects/project1.png",
     images: ["/images/projects/project1.png"],
     tags: ["Alle", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/AnisaHashi/Portfolio",
     previewUrl: "/",
   },
   {
