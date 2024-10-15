@@ -17,7 +17,7 @@ export default function Home() {
   //   "https://picsum.photos/800/900?random=5",
   // ];
   return (
-    <main className="flex min-h-screen flex-col">
+    <main className="flex min-h-screen flex-col bg-[#1a1a1a]">
       <Navbar />
       <div className="container mt-24 mx-auto px-12 py-4 gap-y-4">
         <HeroSection />
